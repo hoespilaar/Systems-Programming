@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Database
+image_archive/*
+image_archive
