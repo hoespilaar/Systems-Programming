@@ -43,3 +43,6 @@
 # Database
 image_archive/*
 image_archive
+
+# AI model
+*.h5
