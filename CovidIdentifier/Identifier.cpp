@@ -8,10 +8,11 @@
 using namespace stdext;
 namespace fs = std::filesystem;
 
-int test()
+void test()
 {
+	std::cout << "Hello World" << std::endl;
 
-	std::string test_image_folder_path = "d:/catdog/"; // path to folder containing test images
+	/*std::string test_image_folder_path = "d:/catdog/"; // path to folder containing test images
 	const auto mymodel = fdeep::load_model("D:/CatDogNew.json"); // load the converted model
 	for (const auto& entry : fs::directory_iterator(test_image_folder_path)) {
 		try
@@ -38,7 +39,7 @@ int test()
 		{
 			std::cout << e.what() << '\n';
 		}
-	}
+	}*/
 
 
 }

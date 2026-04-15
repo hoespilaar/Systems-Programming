@@ -1,0 +1,1 @@
+C:\Users\manuc\Documents\Systems-Programming\CovidIdentifier\CovidIdentifier.vcxproj;x86

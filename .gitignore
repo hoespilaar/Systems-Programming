@@ -93,3 +93,5 @@ model.json
 
 # Visual Studio Files
 .vs/
+Win32/
+x64/

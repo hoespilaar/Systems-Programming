@@ -1,0 +1,8 @@
+﻿RCC : warning : No resources in 'MainWindow.qrc'.
+  
+  Uic'ing MainWindow.ui...
+  moc_MainWindow.cpp
+  MainWindow.cpp
+  main.cpp
+qtmaind.lib(qtmain_winrt.obj) : warning LNK4099: PDB 'qtmaind.pdb' was not found with 'qtmaind.lib(qtmain_winrt.obj)' or at 'C:\Users\manuc\Documents\Systems-Programming\Win32\Debug\qtmaind.pdb'; linking object as if no debug info
+  CovidIdentifier.vcxproj -> C:\Users\manuc\Documents\Systems-Programming\Win32\Debug\CovidIdentifier.exe
